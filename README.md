@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings, Earthling! 👋
 
 I use Python for data science and building AI apps.
 
