@@ -1,6 +1,6 @@
 ## Greetings, Earthling! 👋
 
-I use Python for data science and building AI apps.
+I like using Python for data science and building AI apps.
 
 <div display="flex">
 
