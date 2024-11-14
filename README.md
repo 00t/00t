@@ -7,6 +7,8 @@ I use Python for data science and building AI apps.
 **I love working with**
 
 <div display="flex">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
@@ -19,7 +21,11 @@ Algorithmic Trading - RBI System.
 
 ### 🌱 I’m learning
 
-Javascript + MEAN.
+<div display="flex">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+</div>
 
 ### 🤔 I’m looking for help with
 
