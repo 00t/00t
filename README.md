@@ -14,6 +14,7 @@ Javascript + MEAN.
 
 ### 🤔 I’m looking for help with
 
+iOS app development.
 
 </div>
 
