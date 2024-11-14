@@ -11,7 +11,7 @@ I use Python for data science and building AI apps.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?/>
-<img src ="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Java-%23ED8B00.svg?"/>
 </div>
 
   
