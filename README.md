@@ -3,6 +3,15 @@
 I use Python for data science and building AI apps.
 
 <div display="flex">
+
+**I love working with**
+
+<div display="flex">
+  <img src="[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)"/>
+  <img src="[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)"/>
+  <img src="[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)"/>
+</div>
+
   
 ### 🔭 I’m working on
 
